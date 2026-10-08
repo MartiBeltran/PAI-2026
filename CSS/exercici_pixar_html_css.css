@@ -61,3 +61,18 @@ div#tercerafoto {
     font-family: cambria;
     font-variant-caps: all-small-caps;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+#disneylogo {
+    width: 250px;
+}
+
+#disneylogo img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
