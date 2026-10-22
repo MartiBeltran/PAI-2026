@@ -1,2 +1,3 @@
-console.log("Hello, World!");
-console.log(3*5);
+let a = 5;
+let b = c; 
+c = 7;
